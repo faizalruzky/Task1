@@ -5,10 +5,22 @@
  *
  * Made By MaterializeCSS.com
  */
+.text-color-nav{
+  color:white;
+}
 
 nav ul a,
 nav .brand-logo {
   color: #444;
+}
+
+.navbar-inverse{
+  background-color:  #426edd;
+}
+
+navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+    background-color: red;
 }
 
 p {
